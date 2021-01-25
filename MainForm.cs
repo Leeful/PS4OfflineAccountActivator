@@ -179,7 +179,7 @@ namespace PS4OfflineAccountActivator
 
                 sceRegMgrSetInt_addr = executable + 0x830A20;
                 sceRegMgrSetStr_addr = executable + 0x834A30;
-                sceRegMgrSetBin_addr = executable + 0x8300B0;
+                sceRegMgrSetBin_addr = executable + 0x8300C0;
 
 
                 if (ps4.IsConnected)
