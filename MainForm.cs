@@ -175,7 +175,7 @@ namespace PS4OfflineAccountActivator
 				//system_ex/app/NPXS20001/EBOOT.BIN
                 sceRegMgrGetInt_addr = executable + 0x814C50;
                 sceRegMgrGetStr_addr = executable + 0x8144D0;
-                sceRegMgrGetBin_addr = executable + 0x816020;
+                sceRegMgrGetBin_addr = executable + 0x816010;
 
                 sceRegMgrSetInt_addr = executable + 0x816980;
                 sceRegMgrSetStr_addr = executable + 0x81A9E0;
