@@ -2,7 +2,7 @@
 
 Activates PSN account on jailbroken PS4 allowing you to export save data to USB among other things. The offsets are for 7.55 fw version.
 
-Requires [ps4debug](https://github.com/jogolden/ps4debug) to compile
+Requires [ps4debug](https://github.com/Joonie86/ps4debug) to compile
 
 ![Screenshot of the program](https://github.com/charlyzard/PS4OfflineAccountActivator/blob/master/screenshots/ps4_1.png)
 
